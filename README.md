@@ -6,3 +6,4 @@ Hello World! I am studying Go Language in Korea Army SA-JI-BANG
 |-|-|-|
 |1|Doubly Linked List|[list/list.go](https://github.com/kitae0522/golang-data-structure/blob/main/list/list.go)|
 |2|Trie|[trie/trie.go](https://github.com/kitae0522/golang-data-structure/blob/main/trie/trie.go)|
+|3|Heap|[heap/heap.go](https://github.com/kitae0522/golang-data-structure/blob/main/heap/heap.go)|
